@@ -1,1 +1,2 @@
-## Here is some information about team project
+## New changes from feature1 branch
+## Here is some feature1 changes about team project
